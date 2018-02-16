@@ -2,7 +2,7 @@
 GDG Cancer line processor lineguide
 
 ## Why
-Process gzip compressed files and stream line by line into a function
+Process gzip compressed response and stream line by line into a function
 
 ## How to
 In order to lanch the script install the dependencies:
