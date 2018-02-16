@@ -1,0 +1,30 @@
+{
+  "name": "line-processor-gdc",
+  "version": "1.0.0",
+  "description": "GDG Cancer line processor lineguide",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dod91/line-processor-gdc.git"
+  },
+  "dependencies": {
+    "event-stream": "^3.3.4",
+    "pump": "^3.0.0",
+    "request": "^2.83.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dod91/line-processor-gdc/issues"
+  },
+  "homepage": "https://github.com/dod91/line-processor-gdc#readme",
+  "devDependencies": {
+    "eslint": "^4.17.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0"
+  }
+}
